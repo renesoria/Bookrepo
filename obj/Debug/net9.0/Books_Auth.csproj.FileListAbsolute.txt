@@ -143,3 +143,4 @@ C:\Users\Fernando\Desktop\Rene\UNIVERSITY\TECNOLOGÍAS WEB 1\Books_Auth\Books_Au
 C:\Users\Fernando\Desktop\Rene\UNIVERSITY\TECNOLOGÍAS WEB 1\Books_Auth\Books_Auth\obj\Debug\net9.0\Books_Auth.genruntimeconfig.cache
 C:\Users\Fernando\Desktop\Rene\UNIVERSITY\TECNOLOGÍAS WEB 1\Books_Auth\Books_Auth\obj\Debug\net9.0\ref\Books_Auth.dll
 C:\Users\Fernando\Desktop\Rene\UNIVERSITY\TECNOLOGÍAS WEB 1\Books_Auth\Books_Auth\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Fernando\Desktop\Rene\UNIVERSITY\TECNOLOGÍAS WEB 1\Books_Auth\Books_Auth\obj\Debug\net9.0\Books_Auth.sourcelink.json

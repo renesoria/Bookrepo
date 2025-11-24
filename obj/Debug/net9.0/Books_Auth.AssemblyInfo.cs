@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Books_Auth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba4992a2e2ba638e0a598a39b92816f8fba0a51c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Books_Auth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Books_Auth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
